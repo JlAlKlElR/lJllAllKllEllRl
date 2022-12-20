@@ -12,7 +12,7 @@ Skills:
 
   
 <div id="badges" align="center">
-      <a href="javigaal99@gmail.com" target="_blank">
+      <a href="mailto:javigaal99@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Mail-white?style=for-the-badge&logo=gmail&logoColor=red"
           alt="Mail Badge" />
       </a>
