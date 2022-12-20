@@ -1,9 +1,41 @@
+
+
+
+
+
 - 👋 Hi, I’m `Javier Galán`
 - 👀 I’m interested in `Cibersecurity, Pentesting, Hacking...`
 - 🌱 I’m currently learning `Pentesting`
 - 📫 How to reach me `javigaal99@gmail.com`
 
-<!---
-lJllAllKllEllRl/lJllAllKllEllRl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills:
+
+  
+<div id="badges" align="center">
+      <a href="https://www.linkedin.com/in/emilio-s%C3%A1nchez-garc%C3%ADa/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="LinkedIn Badge" />
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://app.hackthebox.com/profile/380109" target="_blank">
+        <img src="https://img.shields.io/badge/HackTheBox-green?style=for-the-badge&logo=hackthebox&logoColor=black"
+          alt="HackTheBox Badge" />
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="javigaal99@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Mail-white?style=for-the-          badge&logo=gmail&logoColor=red"
+          alt="Mail Badge" />
+      </a>
+      <a href=" ">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+      </a>
+      <a href=" ">
+      <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+      </a>
+       <a href=" ">
+        <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+      </a>
+       <a href=" ">
+       <img alt="RaspberryPi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
+      </a>
+    </div>
