@@ -12,7 +12,7 @@ Skills:
 
   
 <div id="badges" align="center">
-      <a href="https://www.linkedin.com/in/emilio-s%C3%A1nchez-garc%C3%ADa/" target="_blank">
+      <a href="www.linkedin.com/in/javier-galan-aldonza-859b09168" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
           alt="LinkedIn Badge" />
       </a>
@@ -21,11 +21,13 @@ Skills:
         <img src="https://img.shields.io/badge/HackTheBox-green?style=for-the-badge&logo=hackthebox&logoColor=black"
           alt="HackTheBox Badge" />
       </a>
+   </a>
       &nbsp;&nbsp;&nbsp;
-      <a href="javigaal99@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Mail-white?style=for-the-          badge&logo=gmail&logoColor=red"
+      <a href="https://app.hackthebox.com/profile/380109" target="_blank">
+        <img src="https://img.shields.io/badge/Mail-white?style=for-the-badge&logo=gmail&logoColor=red"
           alt="Mail Badge" />
       </a>
+     </a>
       <a href=" ">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
       </a>
