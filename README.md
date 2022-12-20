@@ -22,7 +22,6 @@ Skills:
         <img src="https://img.shields.io/badge/Mail-white?style=for-the-badge&logo=gmail&logoColor=red"
           alt="Mail Badge" />
       </a>
-  
    </a>
       &nbsp;&nbsp;&nbsp;
       <a href="https://app.hackthebox.com/profile/380109" target="_blank">
