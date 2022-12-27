@@ -10,6 +10,8 @@
 
 Contact:
 Skills:
+Others:
+Interested:
 
 <a>
        <img alt="Contact" src="https://img.shields.io/badge/Contact-blue?style=for-the-badge&logo=contact&logoColor=white">
