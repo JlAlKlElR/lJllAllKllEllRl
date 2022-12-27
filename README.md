@@ -28,6 +28,14 @@ Skills:
       <a href="https://github.com/lJllAllKllEllRl" target="_blank">
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"
           alt="LinkedIn Badge" />
+      &nbsp;&nbsp;&nbsp;
+      <a>
+      <img alt="Parrot Linux" src="https://img.shields.io/badge/Parrot Linux-black?style=for-the-badge&logo=linux&logoColor=FFFFFF">
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a>
+      <img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF"> 
+      </a>
       </a>
       <br>
       <br>
@@ -38,8 +46,8 @@ Skills:
        </a>
       &nbsp;&nbsp;&nbsp;
       <a href="https://app.hackthebox.com/profile/380109" target="_blank">
-        <img src="https://img.shields.io/badge/HackTheBox-green?style=for-the-badge&logo=hackthebox&logoColor=black"
-          alt="HackTheBox Badge" />
+        <img src="https://img.shields.io/badge/HackTheBox-222222?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"
+          alt="HackTheBox Badge" />   
       </a>
        &nbsp;&nbsp;&nbsp;
       <a href="https://app.hackthebox.com/profile/380109" target="_blank">
