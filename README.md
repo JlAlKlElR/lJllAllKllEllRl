@@ -41,6 +41,11 @@ Skills:
         <img src="https://img.shields.io/badge/HackTheBox-green?style=for-the-badge&logo=hackthebox&logoColor=black"
           alt="HackTheBox Badge" />
       </a>
+       &nbsp;&nbsp;&nbsp;
+      <a href="https://app.hackthebox.com/profile/380109" target="_blank">
+        <img src="https://img.shields.io/badge/TryHackMe-1A2030?style=for-the-badge&logo=tryhackme&logoColor=white"
+          alt="TryHackMe Badge" />
+      </a>
       <br>
       <br>
 </div>
