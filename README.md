@@ -40,12 +40,12 @@ Interested:
         <img alt="Kali Linux" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=">
       </a>
    &nbsp;&nbsp;&nbsp;
-      <a href="https://app.hackthebox.com/profile/380109" target="_blank">
+      <a href="https://app.hackthebox.com/profile/" target="_blank">
         <img src="https://img.shields.io/badge/HackTheBox-222222?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"
           alt="HackTheBox Badge" />   
       </a>
        &nbsp;&nbsp;&nbsp;
-      <a href="https://app.hackthebox.com/profile/380109" target="_blank">
+      <a href="https://app.hackthebox.com/profile/" target="_blank">
         <img src="https://img.shields.io/badge/TryHackMe-1A2030?style=for-the-badge&logo=tryhackme&logoColor=white"
           alt="TryHackMe Badge" />
       </a>
