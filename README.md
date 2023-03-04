@@ -33,6 +33,8 @@ Interested:
       </a>
       <br>
       <br>
+</div>
+<div id="badges" align="center">
       &nbsp;&nbsp;&nbsp;
       <a>
         <img alt="Kali Linux" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=">
